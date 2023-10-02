@@ -1,17 +1,5 @@
 [
     {
-        "_id": "t105",
-        "name": "cute bear",
-        "price": 456,
-        "labels": [
-            "Baby",
-            "On wheels",
-            "Puzzle"
-        ],
-        "createdAt": 1631031801498,
-        "inStock": true
-    },
-    {
         "_id": "t106",
         "name": "big lion",
         "price": 33,
@@ -94,5 +82,17 @@
         "createdAt": "Today 11:39",
         "inStock": true,
         "_id": "KLTruU"
+    },
+    {
+        "name": "story",
+        "price": 7568,
+        "labels": [
+            "On wheels",
+            "Box game",
+            "Battery Powered"
+        ],
+        "createdAt": "Today 11:58",
+        "inStock": true,
+        "_id": "drDoR7"
     }
 ]
